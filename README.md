@@ -8,4 +8,4 @@ ___________________                                   __________________________
 -------------------                                   -------------------------------
 ```
 
-* Device gets proxied internet connection via nftables and port 80 and 23 of the device is available in the wlan ip adress of the rpi zero
+* Device gets proxied internet connection via nftables and port 80 and 23 of the device is available on the wlan ip address of the rpi zero
